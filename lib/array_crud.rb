@@ -3,7 +3,10 @@ def create_an_empty_array
 
 end
 
-
+def create_an_array
+  [apples,grapes,mango,watermelon]
+  
+end
 
 
 
